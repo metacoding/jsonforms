@@ -23,7 +23,7 @@
     "@jsonforms/core": "^2.2.3",
     "@jsonforms/react": "^2.2.3",
     "@jsonforms/test": "^2.2.3",
-    "ava": "^0.25.0",
+    "ava": "^5.2.0",
     "copy-webpack-plugin": "^4.5.1",
     "jsdom": "^11.9.0",
     "jsdom-global": "^3.0.2",
